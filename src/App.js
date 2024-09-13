@@ -15,7 +15,7 @@ function App() {
 
       <div className="second">
         <div>
-          <h1 style={{ fontSize: "2.2rem" }}> Moustafa Emad Dawood</h1>
+          <h1 style={{ fontSize: "2.2rem" }}> Moustafa Emad </h1>
         </div>
         <div>
           <h2 style={{ fontSize: "1.5rem" }}>Mobile : 01096688747</h2>
@@ -40,7 +40,7 @@ function App() {
               style={{ fontSize: "4rem", margin: "0.4rem" }}
             />
           </a>
-          <a href="https://www.google.com.eg">
+          <a href="https://snapchat.com/t/4oCiiTML">
             <FontAwesomeIcon
               icon={faSnapchatGhost}
               style={{ fontSize: "4rem", margin: "0.4rem" }}
