@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/moustafa-qr/static/css/main.919cd15d.css",
-    "main.js": "/moustafa-qr/static/js/main.9638c731.js",
+    "main.css": "/moustafa-qr/static/css/main.41c50f7c.css",
+    "main.js": "/moustafa-qr/static/js/main.8d566f03.js",
     "static/js/453.a2051787.chunk.js": "/moustafa-qr/static/js/453.a2051787.chunk.js",
     "static/media/1.jpeg": "/moustafa-qr/static/media/1.1ca21e9472c91610f877.jpeg",
     "index.html": "/moustafa-qr/index.html",
-    "main.919cd15d.css.map": "/moustafa-qr/static/css/main.919cd15d.css.map",
-    "main.9638c731.js.map": "/moustafa-qr/static/js/main.9638c731.js.map",
+    "main.41c50f7c.css.map": "/moustafa-qr/static/css/main.41c50f7c.css.map",
+    "main.8d566f03.js.map": "/moustafa-qr/static/js/main.8d566f03.js.map",
     "453.a2051787.chunk.js.map": "/moustafa-qr/static/js/453.a2051787.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.919cd15d.css",
-    "static/js/main.9638c731.js"
+    "static/css/main.41c50f7c.css",
+    "static/js/main.8d566f03.js"
   ]
 }
