@@ -15,7 +15,7 @@ function App() {
 
       <div className="second">
         <div>
-          <h1 style={{ fontSize: "2.5rem" }}> Moustafa Emad Dawood</h1>
+          <h1 style={{ fontSize: "2.2rem" }}> Moustafa Emad Dawood</h1>
         </div>
         <div>
           <h2 style={{ fontSize: "1.5rem" }}>Mobile : 01096688747</h2>
