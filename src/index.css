@@ -4,9 +4,9 @@ a {
 }
 
 div img {
-  height: 32rem;
+  height: 24rem;
   border-radius: 50%;
-  margin-top: 4rem;
+  margin: 1.2rem;
 }
 
 .container {
