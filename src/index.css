@@ -10,7 +10,6 @@ div img {
 }
 
 .container {
-  height: 98vh;
   display: grid;
   grid-column: 1fr;
   grid-template-rows: 0.4fr 0.8fr;
