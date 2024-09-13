@@ -4,16 +4,15 @@ a {
 }
 
 div img {
-  height: 22rem;
+  height: 32rem;
   border-radius: 50%;
-  margin-top: 22px;
+  margin-top: 4rem;
 }
 
 .container {
-  height: 98vh;
   display: grid;
   grid-column: 1fr;
-  grid-template-rows: 0.6fr 1fr;
+  grid-template-rows: 0.4fr 0.8fr;
 }
 
 .first {

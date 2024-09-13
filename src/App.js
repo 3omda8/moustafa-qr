@@ -15,39 +15,39 @@ function App() {
 
       <div className="second">
         <div>
-          <h1 style={{ fontSize: "2.5rem" }}> Moustafa Emad </h1>
+          <h1 style={{ fontSize: "3.6rem" }}> Moustafa Emad </h1>
         </div>
         <div>
-          <h2 style={{ fontSize: "1.8rem" }}>Mobile : 01096688747</h2>
+          <h2 style={{ fontSize: "2.6rem" }}>Mobile : 01096688747</h2>
         </div>
         <div>
           <a href="https://wa.me/+201096688747">
             <FontAwesomeIcon
               icon={faWhatsapp}
-              style={{ fontSize: "64px", margin: "8px" }}
+              style={{ fontSize: "6rem", margin: "0.2rem" }}
             />
           </a>
 
           <a href="https://www.facebook.com/profile.php?id=100004980244806">
             <FontAwesomeIcon
               icon={faFacebook}
-              style={{ fontSize: "64px", margin: "8px" }}
+              style={{ fontSize: "6rem", margin: "0.2rem" }}
             />
           </a>
           <a href="https://www.instagram.com/moustafa_3mad99">
             <FontAwesomeIcon
               icon={faSquareInstagram}
-              style={{ fontSize: "64px", margin: "8px" }}
+              style={{ fontSize: "6rem", margin: "0.2rem" }}
             />
           </a>
           <a href="https://www.google.com.eg">
             <FontAwesomeIcon
               icon={faSnapchatGhost}
-              style={{ fontSize: "64px", margin: "8px" }}
+              style={{ fontSize: "6rem", margin: "0.2rem" }}
             />
           </a>
 
-          <p style={{ marginTop: "3.4em", fontSize: "1em" }}>
+          <p style={{ marginTop: "6rem", fontSize: "1.2rem" }}>
             @ created by Mohamed Dawood
           </p>
         </div>
